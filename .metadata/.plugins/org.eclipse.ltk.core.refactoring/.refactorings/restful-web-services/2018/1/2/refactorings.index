@@ -1,0 +1,5 @@
+1515328077643	Delete element
+1515517895964	Extract local variable 'someBean'
+1515518937809	Extract local variable 'list'
+1515520594301	Extract method 'mappinJackson'
+1515520701355	Extract method 'mappingJacksonBean'
